@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\JarvisServer.yml" />
+  </ItemGroup>
+
 </Project>
